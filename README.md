@@ -16,3 +16,4 @@
   - 다음 주소의 “Ten Minutes to Pandas”를 주피터노트북 파일로 작성해 실행한 결과가 포함된 ipynb 파일 제출
   - URL: https://pandas.pydata.org/docs/user_guide/10min.html
   - 파일이름: 홍길동-12345678.ipynb
+  - 마감일: 12/13(토) 까지
