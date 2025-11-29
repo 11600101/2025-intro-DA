@@ -8,6 +8,9 @@
 - 01, 05, 14주(12/10 수요일) 대면수업
 - 주 수업 반드시 동영상으로 수강해 주시기 바랍니다.
 
+## 14주(12/10 수요일) 대면수업
+- [lecture25-26-27](https://colab.research.google.com/github/ai7dnn/2025-intro-DA/blob/main/notebooks%20code/lecture25-26-27-numpy-mat-pandas.ipynb)
+
 ## 기말고사 범위
 - 강좌 08주 ~ 15주 수업
 - 중간고사와 기말고사 기간의 온라인 동영상
